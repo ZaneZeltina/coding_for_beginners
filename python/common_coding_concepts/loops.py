@@ -1,5 +1,8 @@
-"""Python counting script
-V1.0"""
+"""
+Python counting script
+V1.0
+"""
+
 count = 0
 
 while count < 5:
@@ -8,8 +11,9 @@ while count < 5:
 
 print("Finished counting!")
 
-"""Python for loop
-V1.0"""
+"""
+Example with for loop
+"""
 
 my_shopping_list = ["Apples", "Oranges", "Bread", "Milk", "Eggs"]
 
