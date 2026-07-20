@@ -1,7 +1,7 @@
 """
-Write simple basic Python functions script
+Write a simple basic Python functions script
 """
-
+# Example 1
 def hello_world():
     print("Hello World!")
 

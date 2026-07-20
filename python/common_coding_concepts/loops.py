@@ -1,23 +1,18 @@
 """
 Python counting script
-V1.0
 """
-
+# Example 1
 count = 0
-
 while count < 5:
     print(count)
-    count += 1 # This is the same as count plus one
+    count += 1
 
 print("Finished counting!")
 
-"""
-Example with for loop
-"""
-
+# Example 2
 my_shopping_list = ["Apples", "Oranges", "Bread", "Milk", "Eggs"]
 
 for item in my_shopping_list:
-    print(item) # This will print each item in the list
+    print(item)
     
 print("Finished loop!")
